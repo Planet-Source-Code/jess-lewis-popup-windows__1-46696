@@ -1,0 +1,26 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Explorer\Browser Helper Objects\{9C46C738-5B14-4F59-A2E4-F1055BFEF7A2}\]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Internet Explorer\Extensions\{6CB1CEE0-2506-11d3-BB7C-444553540000}\]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Internet Explorer\Extensions\{6CB1CEE0-2506-11d3-BB7C-444553540000}\]
+"clsid"="{1FBA04EE-3024-11d2-8F1F-0000F87ABD16}"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Internet Explorer\Extensions\{6CB1CEE0-2506-11d3-BB7C-444553540000}\]
+"ClsidExtension"="{9C46C738-5B14-4F59-A2E4-F1055BFEF7A2}"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Internet Explorer\Extensions\{6CB1CEE0-2506-11d3-BB7C-444553540000}\]
+"MenuStatusBar"="Controls Popup Windows"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Internet Explorer\Extensions\{6CB1CEE0-2506-11d3-BB7C-444553540000}\]
+"MenuText"="Popup Windows"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Internet Explorer\Extensions\{6CB1CEE0-2506-11d3-BB7C-444553540000}\]
+"ButtonText"="Popup Windows"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Internet Explorer\Extensions\{6CB1CEE0-2506-11d3-BB7C-444553540000}\]
+"HotIcon"="Popups.dll,102"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Internet Explorer\Extensions\{6CB1CEE0-2506-11d3-BB7C-444553540000}\]
+"Icon"="Popups.dll,104"
