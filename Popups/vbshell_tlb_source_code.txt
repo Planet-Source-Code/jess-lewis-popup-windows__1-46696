@@ -1,0 +1,3 @@
+The vbshell.tlb typelibrary source code is freely downloadable from 
+O'Reilly & Associates, Inc. at http://examples.oreilly.com/vbshell/
+as of 7/6/2003.
